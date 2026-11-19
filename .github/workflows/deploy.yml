@@ -1,4 +1,4 @@
-name: deploy my terraform resources
+name: deploy my terraform code
 
 on:
   push:
